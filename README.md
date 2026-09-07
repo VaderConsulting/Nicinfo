@@ -1,6 +1,6 @@
 # Nicinfo
 
-VB6 working copy of `Nicinfo` from Dave Robinson's OneDrive Historical Dev `VB` folder. Project title: Project1.
+VB6 NIC/adapter info sample (`Project1`, MSWinsock referenced) whose `Module1.bas.example` enumerates host/DNS and `IP_ADAPTER_INFO` via IP Helper (`GetAdaptersInfo` / `GetNetworkParams` style types); the form is a stub and the module is shipped as `.example` for Sub Main startup. Open `Project1.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
